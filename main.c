@@ -65,7 +65,7 @@ int main()
                 entrada(&per, &fin, capacont);
             else if(capacont == (per.numCapas - 1)){ // Si termina sigue con siguiente entrada
                 ultima=1;
-			    for(int i = 0; i < per.capas[capacont-1].numNeuronas; i++) // Entrada capa siguiente=Salida capa anterior
+		for(int i = 0; i < per.capas[capacont-1].numNeuronas; i++) // Entrada capa siguiente=Salida capa anterior
                     per.capas[capacont].entrada[i] = per.capas[capacont-1].salida[i];
             }else{
                 for(int i = 0; i < per.capas[capacont-1].numNeuronas; i++) // Entrada capa siguiente=Salida capa anterior
