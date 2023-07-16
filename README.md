@@ -1,5 +1,5 @@
 # Multilayer-Perceptron-In-C
-This is my solution to a final practice that consisted in developing a multilayer perceptron from the Programming Fundamentals subject. 
+This is my solution to a final practice that consisted in developing a multilayer perceptron capable of performing a forward propagation given a set of inputs from the Programming Fundamentals subject. 
 
 ## Characteristics
 
