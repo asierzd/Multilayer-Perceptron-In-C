@@ -5,7 +5,7 @@ This is my solution to a final practice that consisted in developing a Multilaye
 
 - Configuration file for setting number of layers, number of inputs, number of neurons per layer, matrix of weights per layer, and biases per layer.
 - Input file, each row in the file specifies an input for execution.
-- The activation function used is a slight variation of the sigmoid function, the definition is the following: $f(x) = \frac{1}{1+e^-20*x}$
+- The activation function used is a slight variation of the sigmoid function, the definition is the following: $f(x) = \frac{1}{1+e^{-20*x}}$
 
 ### Limitations
 
