@@ -33,16 +33,16 @@ void restaVector(struct perceptron *, int);
 void configuracion(struct perceptron *);
 void entrada(struct perceptron *, int *, int);
 
-/*CONFIGURACION
+/*CONFIGURACION actual
  *
- * Numero de capas
- * Numero de entradas
- * Numero de neuronas capa 0
- * Matriz de pesos capa 0 (2x2)
- * Vector de umbral capa 0
- * Numero de neuronas capa 1
- * Matriz de pesos capa 1 (2x1)
- * Vector de umbral capa 1
+ * Numero de capas: 2
+ * Numero de entradas: 2
+ * Numero de neuronas capa 0: 2
+ * Matriz de pesos capa 0 (2x2): 1 1 1 1
+ * Vector de umbral capa 0: 0.5 0.5
+ * Numero de neuronas capa 1: 1
+ * Matriz de pesos capa 1 (2x1): 1 -2
+ * Vector de umbral capa 1: 0.5
  *
 */
 
