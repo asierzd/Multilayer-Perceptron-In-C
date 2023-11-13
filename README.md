@@ -1,6 +1,11 @@
 # Multilayer-Perceptron-In-C
 This is my solution to a final practice that consisted in developing a Multilayer Perceptron (MLP) capable of performing a forward propagation given a set of inputs from the Programming Fundamentals subject. 
 
+<p align="center">
+  <img src="https://img.shields.io/github/license/asierzd/Multilayer-Perceptron-In-C?label=License&style=for-the-badge&color=yellow" href="https://opensource.org/license/gpl-3-0/"/>
+  <img src="https://img.shields.io/github/languages/top/asierzd/Multilayer-Perceptron-In-C?style=for-the-badge&color=green"/>
+</p>
+
 ## Characteristics
 
 - Configuration file for setting number of layers, number of inputs, number of neurons per layer, matrix of weights per layer, and biases per layer.
